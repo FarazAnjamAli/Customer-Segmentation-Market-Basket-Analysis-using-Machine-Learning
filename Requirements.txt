@@ -1,0 +1,13 @@
+
+---
+
+# requirements.txt
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlxtend
+jupyter
