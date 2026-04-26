@@ -1,7 +1,5 @@
 # Customer-Segmentation-Market-Basket-Analysis-using-Machine-Learning
 End-to-end data mining project including customer segmentation, clustering, association rule mining, and classification on retail dataset.
-# Customer Segmentation and Market Basket Analysis using Machine Learning
-
 ## Overview
 This project presents a comprehensive data mining pipeline applied to an online retail dataset from the UCI Machine Learning Repository. The objective is to analyze customer behavior, segment customers based on purchasing patterns, discover product associations, and build predictive models for customer value classification.
 
